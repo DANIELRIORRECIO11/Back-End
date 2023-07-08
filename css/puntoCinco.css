@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url("../img/baseDatos.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img{
+    height: 90px;
+}
+
+.contenedor{
+        padding: 10px   ;
+}
+.contenedor img{
+    height: 500px;
+}  
